@@ -205,3 +205,10 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Local Codex metadata
+.codex
+
+# Large local datasets should stay outside the Git repository
+data15_big.csv
+data15_small.csv
